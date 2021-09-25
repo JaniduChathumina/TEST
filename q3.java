@@ -13,6 +13,15 @@ public class q3
 	if (mark>=45 && mark<50) {System.out.print("D");}
 	if (mark>=50 && mark<60) {System.out.print("C");}
 	if (mark>=60 && mark<80) {System.out.print("B");}
+
+
+	if (mark>=25 && mark<45) {System.out.print("E");}
+	if (mark>=45 && mark<50) {System.out.print("D");}
+	if (mark>=50 && mark<60) {System.out.print("C");}
+	if (mark>=60 && mark<80) {System.out.print("B");}
+
+
+
 	if (mark>=80) {System.out.print("A");}
 	}
 
